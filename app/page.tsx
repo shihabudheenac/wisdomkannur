@@ -55,7 +55,7 @@ export default function Home() {
           programmes, initiatives and district committee information.
         </p>
 
-        <div className="status-card">
+        {/* <div className="status-card">
           <div className="status-icon" aria-hidden="true">
             <span />
             <span />
@@ -65,7 +65,7 @@ export default function Home() {
             <p className="status-title">We are getting things ready</p>
             <p className="status-text">The new website is currently under preparation.</p>
           </div>
-        </div>
+        </div> */}
       </section>
 
       <footer className="footer">
